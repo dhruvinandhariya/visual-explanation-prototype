@@ -1,0 +1,10 @@
+pdfplumber
+transformers
+sentence-transformers
+python-pptx
+Pillow
+moviepy
+pyttsx3
+torch
+tqdm
+nltk
